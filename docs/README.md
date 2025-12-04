@@ -16,7 +16,7 @@ mamoona/
 ## Features
 
 ### Design
-- **Color Scheme**: Purple gradient header (#667eea to #764ba2), white content, dark footer (#2c3e50)
+- **Color Scheme**: Teal header, white content, dark footer (#2c3e50)
 - **Typography**: Professional font stack with responsive sizes
 - **Cards**: Hover effects with smooth transformations and zoom images
 - **Gradients**: Beautiful gradient overlays for banners and headers
